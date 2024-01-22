@@ -43,7 +43,7 @@
   .amenities {
     height: 100%;
     width: 25%;
-    vertical-align: left; */
+    /* vertical-align: left; */
     justify-content: center;
     flex-direction: column;
     position: relative;
